@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: pictochat
+    env: docker
+    plan: free
+    autoDeploy: true
